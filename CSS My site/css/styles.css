@@ -1,0 +1,140 @@
+
+body{
+    text-align: center;
+    margin: 0px;
+}
+
+.top{
+    background-color: #E8F9FD;
+    margin:0px 0px 0px 0px;
+    padding-top: 50px;
+    line-height: 2;
+
+}
+
+
+h1{
+    margin-top: 50px;
+    margin-bottom: 0px;
+  
+}
+
+.bcloud{
+    position: absolute;
+    left: 250px;
+}
+.tcloud{
+    position: absolute;
+    right: 250px;
+
+}
+.name{
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 562.5%;
+    color: #66BFBF;
+    line-height: 2;
+
+}
+.desig{
+    font-size: 1.5rem;
+
+
+}
+h2{
+    color: #66BFBF;
+    font-weight: normal;
+}
+h3{
+    color: #11999E;
+}
+a{
+    color: #11999E
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    line-height: 2;
+    text-align: left;
+}
+.chess{
+    color: black;
+    text-decoration: none;
+}
+.python{
+    float: left;
+    margin-right: 20px;
+}
+.sql{
+    float: right;
+    margin-right: 20px;
+}
+.Chess{
+    float: left;
+    margin-right: 20px;
+}
+.btn {
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: Georgia;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb,  #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb,  #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb,  #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb,  #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb,  #2bc4ad);
+    text-decoration: none;
+  }
+  .bottom-container{
+    background-color: #66BFBF;
+    margin-top: 20px;
+    padding: 30px;
+}
+.cc{
+    color: white;
+}
+.footer-link{
+    margin: 50px 10px 50px 10px;
+    color: #11999E;
+    text-decoration: none;
+}
+.contact-me{
+    
+    line-height: 3;
+}
+.inviting-line{
+    line-height: 1.5;
+}
+.middle-container{
+    padding: 100px;
+}
+.hello{
+    font-size: 40px;
+}
+hr{
+    border-style: none;
+    height: 5px;
+    width: 5%;
+    border-top:dotted 4px black;
+
+}
+.profile{
+    line-height: 1.5;
+    margin-bottom: 50px; 
+}
+.skills{
+    margin-top: 50px;
+}
